@@ -9,19 +9,12 @@
   "engines": {
     "node": ">=10"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "peerDependencies": {
     "react": "^16.0.0"
-  },
-  "devDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
   },
   "files": [
     "src/"
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
