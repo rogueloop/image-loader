@@ -1,8 +1,7 @@
 import React from "react";
 import { View, Image } from "react-native";
-let source = require("src/download.jpeg");
 
-const ImageComponent = () => {
+const ImageComponent = ({source}) => {
   return (
     <View>
       <Image source={source} />
