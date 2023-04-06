@@ -1,0 +1,27 @@
+{
+  "name": "image-lodar",
+  "version": "1.0.0",
+  "description": "Basic image loader.",
+  "author": "Sreedeep",
+  "license": "MIT",
+  "repository": "https://github.com/rogueloop/image-loader.git",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "files": [
+    "src/"
+  ],
+  "dependencies": {
+  }
+}
